@@ -22,3 +22,7 @@ The number of nodes in the tree is in the range [1, 1000].
 ## Follow up:
 
 Could you solve it both recursively and iteratively?
+
+## Source:
+
+https://leetcode.com/problems/symmetric-tree/
