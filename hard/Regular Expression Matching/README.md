@@ -29,8 +29,8 @@ Explanation: "._" means "zero or more (\*) of any character (.)".
 1 <= s.length <= 20  
 1 <= p.length <= 20  
 s contains only lowercase English letters.  
-p contains only lowercase English letters, '.', and '_'.  
-It is guaranteed for each appearance of the character '_', there will be a previous valid character to match.
+p contains only lowercase English letters, '.', and '\*'.  
+It is guaranteed for each appearance of the character '\*', there will be a previous valid character to match.
 
 ## Source:
 
