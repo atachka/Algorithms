@@ -15,7 +15,7 @@ Output: true
 
 ## Example 2:
 
-https://assets.leetcode.com/uploads/2020/12/01/tree2.jpg
+![alt text](https://assets.leetcode.com/uploads/2020/12/01/tree2.jpg)
 
 Input: root = [5,1,4,null,null,3,6]  
 Output: false  
